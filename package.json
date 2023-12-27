@@ -24,7 +24,7 @@
     "mobile-device-detect": "^0.4.3"
   },
   "peerDependencies": {
-    "react": "16.x"
+    "react": "17.x"
   },
   "devDependencies": {
     "@material-ui/core": "^4.9.12",
